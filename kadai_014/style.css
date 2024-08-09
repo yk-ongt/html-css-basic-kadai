@@ -6,9 +6,9 @@ body {
   text-align: center;
 }
 h1 {
-  font-family: "Noto Sans JP", sans-serif;
+  font-family: "Josefin Sans", sans-serif;
   font-optical-sizing: auto;
-  font-weight: 400;
+  font-weight: <weight>;
   font-style: normal;
   font-size: 2rem;
   text-shadow: 1px 1px 2px gray;
